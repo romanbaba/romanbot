@@ -1,2 +1,1 @@
-# romanbot-update
-RomanBot Altyapısı
+70 STAR ATIN PAYLASAK LAAA
