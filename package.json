@@ -1,9 +1,9 @@
 {
-  "name": "my-bot",
-  "version": "1.0.0",
+  "name": "romanbot",
+  "version": "4.0.0",
   "description": "Bot!",
   "main": "index.js",
-  "author": "JustForever",
+  "author": "romanwashere",
   "license": "MIT",
   "private": true,
   "scripts": {
@@ -18,8 +18,5 @@
     "nodemon": "^2.0.20",
     "croxydb": "^0.0.7",
     "canvas": "^2.10.1"
-  },
-  "engines": {
-    "node": "16.x"
   }
 }
