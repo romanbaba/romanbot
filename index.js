@@ -65,7 +65,7 @@ commandsRegister();
 slashCommandsRegister();
 portRegister();
 
-client.login("OTk2MzQzODc0NTA5MzUzMTIy.GsCpfo.gaRYxNIcZHKlrg7MyJh-qLBvJq_U8meT69FHmg").then((_) => {
+client.login("TOKEN").then((_) => {
     return client.functions.log("Token girişi başarılı.", "TOKEN_LOGIN");
 }).catch((e) => {
     return client.functions.log("Token girişi başarısız.", "TOKEN_LOGIN");
