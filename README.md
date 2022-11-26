@@ -1,1 +1,2 @@
-70 STAR ATIN PAYLASAK LAAA
+# RomanBot - iptal edilen projelerimden biridir.
+
